@@ -1,0 +1,14 @@
+.schedule{
+    text-align: center;
+    line-height: 0.5;
+}
+
+.table{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.lunch{
+    writing-mode: vertical-rl;     
+    text-orientation: upright;
+}
